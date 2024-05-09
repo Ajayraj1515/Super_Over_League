@@ -1,0 +1,13 @@
+/* Write your code here. */
+.greeting {
+  background-color: #0f172a;
+  height: 80vh;
+  text-align: center;
+  background-size:cover;
+}
+
+.heading {
+  font-family: Roboto;
+  color: #f8fafc;
+  font-size: 30px;
+}
